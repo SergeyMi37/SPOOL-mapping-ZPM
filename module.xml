@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
-  <Document name="terminal-multiline.ZPM">
+  <Document name="spool-mapping.ZPM">
     <Module>
-      <Name>terminal-multiline</Name>
-      <Version>1.0.1</Version>
-      <Description>Multi-Line in Terminal Command</Description>
-      <Keywords>Terminal, COS</Keywords>
+      <Name>spool-mapping</Name>
+      <Version>1.0.0</Version>
+      <Description>local mapping of ^SPOOL global</Description>
+      <Keywords>TCOS, Mapping, SPOOL</Keywords>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-       <Resource Name="%zml.MAC"/>
+       <Resource Name="User.PKG"/>
     </Module>
   </Document>
 </Export>
