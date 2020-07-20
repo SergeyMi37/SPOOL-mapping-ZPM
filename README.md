@@ -5,7 +5,7 @@
 ~~~ 
 
 # Spool-mapping
-It is aclassic Global Mapping presenting ^SPOOL as Class / Table
+It is a classic Global Mapping ecercise presenting ^SPOOL as Class / Table
 
 ### Background
 Device #2 named SPOOL dates back to the predecessors of Caché and IRIS  
