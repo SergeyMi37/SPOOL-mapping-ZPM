@@ -25,8 +25,8 @@ or use this mapping to access it as class or a SQL table.
 - second subsctipt is a line number UNIQUE to the document.  
 - both together form the IDkey  
 
-Details: __The Spool Device__ 
-{https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GIOD_spool}  
+Details: __The Spool Device__   
+https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GIOD_spool  
 
 ### Example
 
