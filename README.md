@@ -13,7 +13,7 @@ It was the first __"%Stream"__ like option to buffer output before printing.
 It is also the first and till today the most simplest way of output redirection.   
 
 ### Solution
-This is also an example of a mapped Global. 
+This is also an example of a mapped Global.   
 __USE 2__ redirects the output into the Global ^SPOOL  
 
 You can read the global manually or with some ancient utilities  
