@@ -25,13 +25,13 @@ or use this mapping to access it as class or a SQL table.
 - second subsctipt is a line number UNIQUE to the document.  
 - both together form the IDkey  
 
-Details: [The Spool Device]  
-{https://docs.intersystems.com/iris20192/csp/docbook/DocBook.UI.Page.cls?KEY=GIOD_spool}  
+Details: __The Spool Device__ 
+{https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GIOD_spool}  
 
 ### Example
 
-__SELECT TOP 12 ID,* FROM SPOOL WHERE Document=3__
-
+__SELECT TOP 12 ID,* FROM SPOOL WHERE Document=3__  
+https://github.com/rcemper/SPOOL-mapping-ZPM/blob/master/spool.jpg
 ~~~
 
 |   ID  | Doc |	Line | Text 
