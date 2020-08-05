@@ -28,25 +28,7 @@ or use this mapping to access it as class or a SQL table.
 Details: __The Spool Device__   
 https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GIOD_spool  
 
-### Example
+### Example 
+- ![](https://github.com/rcemper/SPOOL-mapping-ZPM/blob/master/spool.jpg)
 
-__SELECT TOP 12 ID,* FROM SPOOL WHERE Document=3__  
-https://github.com/rcemper/SPOOL-mapping-ZPM/blob/master/spool.jpg
-~~~
-
-|   ID  | Doc |	Line | Text 
---------------------------------------------------
-| 3||1  |  3  |   1  | Lorem ipsum dolor sit amet, consectetuer adipiscing
-| 3||2  |  3  |   2  | elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-| 3||3  |  3  |   3  | dolore magna aliquam erat volutpat. Ut wisi enim ad minim
-| 3||4  |  3  |   4  | veniam, quis nostrud exercitation ulliam corper suscipit lobortis
-| 3||5  |  3  |   5  | nisl ut aliquip ex ea commodo consequat.
-| 3||6  |  3  |   6  | Duis autem veleum iriure dolor in hendrerit in vulputate
-| 3||7  |  3  |   7  | velit esse molestie consequat, vel willum lunombro dolore
-| 3||8  |  3  |   8  | eu feugiat nulla facilisis
-| 3||9  |  3  |   9  | at vero eros et accumsan
-| 3||10 |  3  |  10  | et iusto odio dignissim qui blandit praesent
-| 3||11 |  3  |  11  | luptatum zzril delenit augue duis dolore te feugait nulla
-| 3||12 |  3  |  12  | facilisi. Li Europan lingues es membres
-~~~
-
+[Article in DC](https://community.intersystems.com/post/spool-sql-table)
