@@ -5,7 +5,7 @@
 ~~~ 
 
 # Spool-mapping
-It is a classic Global Mapping ecercise presenting ^SPOOL as Class / Table
+It is a classic Global Mapping exercise presenting ^SPOOL as Class / Table
 
 ### Background
 Device #2 named SPOOL dates back to the predecessors of Caché and IRIS  
@@ -29,6 +29,6 @@ Details: __The Spool Device__
 https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GIOD_spool  
 
 ### Example 
-- ![](https://github.com/rcemper/SPOOL-mapping-ZPM/blob/master/spool.jpg)
+- ![](https://github.com/rcemper/SPOOL-mapping-ZPM/blob/master/spool.jpg?raw=true)
 
 [Article in DC](https://community.intersystems.com/post/spool-sql-table)
